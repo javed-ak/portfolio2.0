@@ -11,6 +11,7 @@ export const Bio = {
   github: "https://github.com/javed-ak",
   resume:
     "https://drive.google.com/file/d/1WWsIS4Z0ODsbLDwXn_5m295h4oYT1KMQ/view?usp=sharing",
+  mail: "mailto: conn.javed@gmail.com",
   linkedin: "https://www.linkedin.com/in/javed-ak/",
   twitter: "https://x.com/javed__ak",
   insta: "https://www.instagram.com/javed_.ak/",
