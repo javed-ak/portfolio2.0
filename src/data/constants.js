@@ -224,7 +224,7 @@ export const projects = [
     tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
     category: "web app",
     // github: "https://github.com/",
-    webapp: "http://parkaire.net/",
+    webapp: "https://parkaire.net",
   },
   {
     id: 2,
