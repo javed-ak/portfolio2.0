@@ -218,16 +218,9 @@ export const projects = [
     id: 1,
     title: "Parkaire Engineering Co. Pvt. Ltd",
     date: "Jul 2023 - Aug 2023",
-    description:
-      "The business website design that I have created is not only visually stunning but also fully responsive, user-friendly, and optimized for performance. It showcases your brand in the best possible light, captivating visitors from the moment they arrive and driving them towards your desired actions. Get ready to make a memorable impact in the digital world with this exceptional website design.",
+    description: "The business website design that I have created is not only visually stunning but also fully responsive, user-friendly, and optimized for performance. It showcases your brand in the best possible light, captivating visitors from the moment they arrive and driving them towards your desired actions. Get ready to make a memorable impact in the digital world with this exceptional website design.",
     image: "P1.png",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "WordPress",
-      "React Js"
-    ],
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
     category: "web app",
     // github: "https://github.com/rishavchanda/Trackify",
     webapp: "http://parkaire.net/",
@@ -236,17 +229,9 @@ export const projects = [
     id: 2,
     title: "Gulf Chain Supply Trading Company",
     date: "Aug 2023 - Aug 2023",
-    description:
-      "Developed a website highlighting the company's profile, services, and products, with user-friendly features for seamless product exploration, inquiries, and transactions, enhancing efficiency and customer satisfaction.",
-    image:
-      "P2.png",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "WordPress",
-      "React Js"
-    ],
+    description: "Developed a website highlighting the company's profile, services, and products, with user-friendly features for seamless product exploration, inquiries, and transactions, enhancing efficiency and customer satisfaction.",
+    image: "P2.png",
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
     category: "web app",
     // github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://afc-sa.com/",
@@ -268,35 +253,62 @@ export const projects = [
   {
     id: 3,
     title: "Praj RefrigeraEon Industries",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a dynamic website for the company, featuring a compelling narrative on its history, values, and mission, with integrated sections showcasing diverse products and services, along with notable achievements to enhance credibility and market reputation.",
-    image:
-      "P3.png",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "WordPress",
-      "React Js"
-    ],
+    date: "May 2023 - June 2023",
+    description: "Developed a dynamic website for the company, featuring a compelling narrative on its history, values, and mission, with integrated sections showcasing diverse products and services, along with notable achievements to enhance credibility and market reputation.",
+    image: "P3.png",
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://prajrefrigerationindustries.com/",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    //   {
-    //     name: "Upasana Chaudhuri",
-    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //     github: "https://github.com/upasana0710",
-    //   },
-    // ],
+    webapp: "https://prajrefrigerationindustries.com/"
+  },
+  {
+    id: 4,
+    title: "Partybuz",
+    date: "May 2024 - June 2024",
+    description: "I developed a fully functional e-commerce website with product catalogs, search functionality, a user-friendly cart, and secure payment gateways, showcasing my ability to create a robust online shopping experience with smooth transac=ons and user satisfaction.",
+    image: "P4.png",
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "E-commerce" ],
+    category: "web app",
+    webapp: "https://partybuz.com/"
+  },
+  {
+    id: 5,
+    title: "Gupta Associates",
+    date: "Apr 2024 - May 2024",
+    description: "Developed a dynamic company website featuring comprehensive information about the organization, showcasing their products, and providing customers with the ability to request quotes effortlessly.",
+    image: "P5.png",
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "E-commerce" ],
+    category: "web app",
+    webapp: "https://guptaswitchgears.com/"
+  },
+  {
+    id: 6,
+    title: "Nevada Waters",
+    date: "Apr 2024 - Apr 2024",
+    description: "Crafted a modern and informative website for a water company, detailing the company's mission, services, and product offerings. Integrated user-friendly features to showcase various water products and allow customers to explore options and make inquiries conveniently.",
+    image: "P6.png",
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
+    category: "web app",
+    webapp: "https://nevadawaters.com/"
+  },
+  {
+    id: 7,
+    title: "Seligo Consultants Private Limited",
+    date: "Jan 2023 - Jan 2023",
+    description: "The business website design that I have created is not only visually stunning but also fully responsive, user-friendly, and optimized for performance. It showcases your brand in the best possible light, captivating visitors from the moment they arrive and driving them towards your desired actions. Get ready to make a memorable impact in the digital world with this exceptional website design.",
+    image: "P7.png",
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
+    category: "web app",
+    webapp: "https://acetax.in/"
+  },
+  {
+    id: 8,
+    title: "Tomar Cargo",
+    date: "Mar 2023 - Mar 2023",
+    description: "The cargo website design we have created for you is not only visually stunning and fully responsive but also functional and user-friendly. It combines attractive aesthetics with advanced features to showcase your cargo business effectively and engage visitors from the first interaction. Get ready to leave a lasting impression on your target audience and stand out in the competitive cargo industry with a website that truly represents your brand.",
+    image: "P8.png",
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress" ],
+    category: "web app",
+    webapp: "https://tomarcargo.com/"
   },
 ];
 
