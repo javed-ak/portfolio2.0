@@ -257,7 +257,7 @@ export const projects = [
     date: "May 2023 - June 2023",
     description: "Developed a dynamic website for the company, featuring a compelling narrative on its history, values, and mission, with integrated sections showcasing diverse products and services, along with notable achievements to enhance credibility and market reputation.",
     image: "P3.png",
-    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "NodeJS" ],
     category: "web app",
     webapp: "https://prajrefrigerationindustries.com/"
   },
@@ -277,7 +277,7 @@ export const projects = [
     date: "Apr 2024 - May 2024",
     description: "Developed a dynamic company website featuring comprehensive information about the organization, showcasing their products, and providing customers with the ability to request quotes effortlessly.",
     image: "P5.png",
-    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "E-commerce" ],
+    tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "E-commerce", "Next.js", "Node JS"],
     category: "web app",
     webapp: "https://guptaswitchgears.com/"
   },
