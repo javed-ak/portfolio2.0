@@ -10,7 +10,7 @@ export const Bio = {
     "I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). Skilled in building and managing both front-end and back-end systems, I apply modern development practices to solve real-world problems. A quick learner with a focus on enhancing user experiences, I'm eager to grow and contribute in dynamic environments.",
   github: "https://github.com/javed-ak",
   resume:
-    "https://drive.google.com/file/d/1g7r_Rbz5ZyphuKep9_5gnnBORiUMurBd/view?usp=sharing",
+    "https://drive.google.com/file/d/1VfxBWTxxcixdJ-Cm_58vWixWQhLFnJ0O",
   mail: "mailto: conn.javed@gmail.com",
   linkedin: "https://www.linkedin.com/in/javed-ak/",
   twitter: "https://x.com/javed__ak",
@@ -214,9 +214,52 @@ export const education = [
   },
 ];
 
-export const projects = [
-  {
+export const projects = [{
     id: 1,
+    title: "Medium Blog Website Clone",
+    date: "Nov 2024",
+    description:
+        "Developed a fully functional Medium Blog Clone, enabling users to sign up, post blogs, and engage with content. Built the frontend using React, backend with Hono, and PostgreSQL for the database. Deployed seamlessly on Vercel for a smooth experience.",
+    image: "P13.png",
+    tags: ["React", "PostgreSQL", "Hono", "Vercel"],
+    category: "web app",
+    github: "https://github.com/javed-ak/medium-clone.git",
+    webapp: "https://medium-clone-pi-liart.vercel.app/",
+  }, {
+    id: 2,
+    title: "Random Quote Generator",
+    date: "Nov 2024",
+    description:
+      "Created a Random Quote Generator app with React, featuring dynamic quote generation, background transitions, and Twitter sharing. Designed with Tailwind CSS and deployed on Vercel.",
+    image: "P12.png",
+    tags: ["React", "Tailwind CSS", "Vercel"],
+    category: "web app",
+    github: "https://github.com/javed-ak/medium-clone.git",
+    webapp: "https://random-quote-generator-ten-phi.vercel.app/",
+  }, {
+    id: 3,
+    title: "Markdown Previewer",
+    date: "Nov 2024",
+    description:
+        "Built a Markdown Previewer that allows users to write and preview markdown syntax in real-time. Developed using React and styled with Tailwind CSS, ensuring a clean and user-friendly interface.",
+    image: "P10.png", 
+    tags: ["React", "Tailwind CSS", "Vercel"],
+    category: "web app",
+    github: "https://github.com/javed-ak/medium-clone.git",
+    webapp: "https://markdown-previewer-hazel-nu.vercel.app",
+  }, {
+    id: 4,
+    title: "Drum Machine",
+    date: "Nov 2024",
+    description:
+        "Designed an interactive Drum Machine app using React, allowing users to play drum sounds by clicking pads or pressing keyboard keys. Integrated smooth animations and deployed on Vercel.",
+    image: "P11.png",
+    tags: ["React", "Vite", "Tailwind CSS", "Vercel"],
+    category: "web app",
+    github: "https://github.com/javed-ak/medium-clone.git",
+    webapp: "https://drum-machine-javed-ak.vercel.app",
+  }, {
+    id: 5,
     title: "Parkaire Engineering Co. Pvt. Ltd",
     date: "Jul 2023 - Aug 2023",
     description: "The business website design that I have created is not only visually stunning but also fully responsive, user-friendly, and optimized for performance. It showcases your brand in the best possible light, captivating visitors from the moment they arrive and driving them towards your desired actions. Get ready to make a memorable impact in the digital world with this exceptional website design.",
@@ -225,9 +268,8 @@ export const projects = [
     category: "web app",
     // github: "https://github.com/",
     webapp: "https://parkaire.net",
-  },
-  {
-    id: 2,
+  }, {
+    id: 6,
     title: "Gulf Chain Supply Trading Company",
     date: "Aug 2023 - Aug 2023",
     description: "Developed a website highlighting the company's profile, services, and products, with user-friendly features for seamless product exploration, inquiries, and transactions, enhancing efficiency and customer satisfaction.",
@@ -250,9 +292,8 @@ export const projects = [
     //     github: "#",
     //   },
     // ],
-  },
-  {
-    id: 3,
+  }, {
+    id: 7,
     title: "Praj RefrigeraEon Industries",
     date: "May 2023 - June 2023",
     description: "Developed a dynamic website for the company, featuring a compelling narrative on its history, values, and mission, with integrated sections showcasing diverse products and services, along with notable achievements to enhance credibility and market reputation.",
@@ -260,9 +301,8 @@ export const projects = [
     tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "NodeJS" ],
     category: "web app",
     webapp: "https://prajrefrigerationindustries.com/"
-  },
-  {
-    id: 4,
+  }, {
+    id: 8,
     title: "Partybuz",
     date: "May 2024 - June 2024",
     description: "I developed a fully functional e-commerce website with product catalogs, search functionality, a user-friendly cart, and secure payment gateways, showcasing my ability to create a robust online shopping experience with smooth transac=ons and user satisfaction.",
@@ -270,9 +310,8 @@ export const projects = [
     tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "E-commerce" ],
     category: "web app",
     webapp: "https://partybuz.com/"
-  },
-  {
-    id: 5,
+  }, {
+    id: 9,
     title: "Gupta Associates",
     date: "Apr 2024 - May 2024",
     description: "Developed a dynamic company website featuring comprehensive information about the organization, showcasing their products, and providing customers with the ability to request quotes effortlessly.",
@@ -280,9 +319,8 @@ export const projects = [
     tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js", "E-commerce", "Next.js", "Node JS"],
     category: "web app",
     webapp: "https://guptaswitchgears.com/"
-  },
-  {
-    id: 6,
+  }, {
+    id: 10,
     title: "Nevada Waters",
     date: "Apr 2024 - Apr 2024",
     description: "Crafted a modern and informative website for a water company, detailing the company's mission, services, and product offerings. Integrated user-friendly features to showcase various water products and allow customers to explore options and make inquiries conveniently.",
@@ -290,9 +328,8 @@ export const projects = [
     tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
     category: "web app",
     webapp: "https://nevadawaters.com/"
-  },
-  {
-    id: 7,
+  }, {
+    id: 11,
     title: "Seligo Consultants Private Limited",
     date: "Jan 2023 - Jan 2023",
     description: "The business website design that I have created is not only visually stunning but also fully responsive, user-friendly, and optimized for performance. It showcases your brand in the best possible light, captivating visitors from the moment they arrive and driving them towards your desired actions. Get ready to make a memorable impact in the digital world with this exceptional website design.",
@@ -300,9 +337,8 @@ export const projects = [
     tags: [ "HTML", "CSS", "JavaScript", "WordPress", "React Js" ],
     category: "web app",
     webapp: "https://acetax.in/"
-  },
-  {
-    id: 8,
+  }, {
+    id: 12,
     title: "Tomar Cargo",
     date: "Mar 2023 - Mar 2023",
     description: "The cargo website design we have created for you is not only visually stunning and fully responsive but also functional and user-friendly. It combines attractive aesthetics with advanced features to showcase your cargo business effectively and engage visitors from the first interaction. Get ready to leave a lasting impression on your target audience and stand out in the competitive cargo industry with a website that truly represents your brand.",
@@ -310,7 +346,7 @@ export const projects = [
     tags: [ "HTML", "CSS", "JavaScript", "WordPress" ],
     category: "web app",
     webapp: "https://tomarcargo.com/"
-  },
+  }
 ];
 
 export const TimeLineData = [
