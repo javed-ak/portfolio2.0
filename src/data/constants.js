@@ -10,7 +10,7 @@ export const Bio = {
     "I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). Skilled in building and managing both front-end and back-end systems, I apply modern development practices to solve real-world problems. A quick learner with a focus on enhancing user experiences, I'm eager to grow and contribute in dynamic environments.",
   github: "https://github.com/javed-ak",
   resume:
-    "https://drive.google.com/file/d/1FLQKtQsN1EV1CKmAJJXPrRmkUmrBbwB5",
+    "https://drive.google.com/file/d/1HjuoVmXb7LOw5I1E7eITCfd1IdggGPNk",
   mail: "mailto: conn.javed@gmail.com",
   linkedin: "https://www.linkedin.com/in/javed-ak/",
   twitter: "https://x.com/javed__ak",
@@ -138,7 +138,7 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Web Developer Freelancer",
     company: "JavCreation Pvt. Ltd.",
-    date: "Jan 2023 - Present (Remote)",
+    date: "Jan 2023 - July 2024 (Remote)",
     desc: "Integrated e-commerce functionality into 10+ websites, increasing online sales for clients by an average of 25%. Ensured cross-browser/device compatibility, improving site performance across all major platforms.",
     skills: [
       "HTML",
