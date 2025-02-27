@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Javed Akhtar. | All rights reserved.
+          &copy; 2025 Javed Akhtar. | All rights reserved.
         </Copyright>
 
       </FooterWrapper>
