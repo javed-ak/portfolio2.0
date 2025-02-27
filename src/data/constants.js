@@ -219,7 +219,7 @@ export const projects = [{
   title: "Black Vans - Vehicle booking application",
   date: "Jan 2025",
   description:
-      "**Black Vans** is a full-stack vehicle booking application built using the **MERN (MongoDB, Express.js, React, Node.js) stack**, designed for seamless vehicle rentals. It features **secure user authentication, real-time vehicle availability, an admin dashboard for managing bookings and users, integrated online payments, and a fully responsive design** for both mobile and desktop users. This project highlights my expertise in **frontend and backend development, API integration, and database management**, ensuring a smooth and scalable user experience.",
+      "Black Vans is a full-stack vehicle booking application built using the MERN (MongoDB, Express.js, React, Node.js) stack, designed for seamless vehicle rentals. It features secure user authentication, real-time vehicle availability, an admin dashboard for managing bookings and users, and a fully responsive design for both mobile and desktop users. This project highlights my expertise in frontend and backend development, API integration, and database management**, ensuring a smooth and scalable user experience.",
   image: "P15.png",
   tags: ["React.js", "Express.js", "Node.js"],
   category: "web app",
