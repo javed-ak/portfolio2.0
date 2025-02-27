@@ -215,7 +215,27 @@ export const education = [
 ];
 
 export const projects = [{
-    id: 1,
+  id: 14,
+  title: "Black Vans - Vehicle booking application",
+  date: "Jan 2025",
+  description:
+      "**Black Vans** is a full-stack vehicle booking application built using the **MERN (MongoDB, Express.js, React, Node.js) stack**, designed for seamless vehicle rentals. It features **secure user authentication, real-time vehicle availability, an admin dashboard for managing bookings and users, integrated online payments, and a fully responsive design** for both mobile and desktop users. This project highlights my expertise in **frontend and backend development, API integration, and database management**, ensuring a smooth and scalable user experience.",
+  image: "P15.png",
+  tags: ["React.js", "Express.js", "Node.js"],
+  category: "web app",
+  webapp: "https://blackvans.com",
+},{
+  id: 13,
+  title: "JSN Group",
+  date: "Feb 2025",
+  description:
+      "Developed a fully functional Medium Blog Clone, enabling users to sign up, post blogs, and engage with content. Built the frontend using React, backend with Hono, and PostgreSQL for the database. Deployed seamlessly on Vercel for a smooth experience.",
+  image: "P14.png",
+  tags: ["HTML", "CSS", "JavaScript", "WordPress"],
+  category: "web app",
+  webapp: "https://groupjsn.com",
+},{
+    id: 12,
     title: "Medium Blog Website Clone",
     date: "Nov 2024",
     description:
@@ -226,7 +246,7 @@ export const projects = [{
     github: "https://github.com/javed-ak/medium-clone.git",
     webapp: "https://medium-clone-pi-liart.vercel.app/",
   }, {
-    id: 2,
+    id: 11,
     title: "Random Quote Generator",
     date: "Nov 2024",
     description:
@@ -237,7 +257,7 @@ export const projects = [{
     github: "https://github.com/javed-ak/medium-clone.git",
     webapp: "https://random-quote-generator-ten-phi.vercel.app/",
   }, {
-    id: 3,
+    id: 10,
     title: "Markdown Previewer",
     date: "Nov 2024",
     description:
@@ -248,7 +268,7 @@ export const projects = [{
     github: "https://github.com/javed-ak/medium-clone.git",
     webapp: "https://markdown-previewer-hazel-nu.vercel.app",
   }, {
-    id: 4,
+    id: 9,
     title: "Drum Machine",
     date: "Nov 2024",
     description:
@@ -259,7 +279,7 @@ export const projects = [{
     github: "https://github.com/javed-ak/medium-clone.git",
     webapp: "https://drum-machine-javed-ak.vercel.app",
   }, {
-    id: 5,
+    id: 8,
     title: "Parkaire Engineering Co. Pvt. Ltd",
     date: "Jul 2023 - Aug 2023",
     description: "The business website design that I have created is not only visually stunning but also fully responsive, user-friendly, and optimized for performance. It showcases your brand in the best possible light, captivating visitors from the moment they arrive and driving them towards your desired actions. Get ready to make a memorable impact in the digital world with this exceptional website design.",
@@ -269,7 +289,7 @@ export const projects = [{
     // github: "https://github.com/",
     webapp: "https://parkaire.net",
   }, {
-    id: 6,
+    id: 7,
     title: "Gulf Chain Supply Trading Company",
     date: "Aug 2023 - Aug 2023",
     description: "Developed a website highlighting the company's profile, services, and products, with user-friendly features for seamless product exploration, inquiries, and transactions, enhancing efficiency and customer satisfaction.",
@@ -293,7 +313,7 @@ export const projects = [{
     //   },
     // ],
   }, {
-    id: 7,
+    id: 6,
     title: "Praj RefrigeraEon Industries",
     date: "May 2023 - June 2023",
     description: "Developed a dynamic website for the company, featuring a compelling narrative on its history, values, and mission, with integrated sections showcasing diverse products and services, along with notable achievements to enhance credibility and market reputation.",
@@ -302,7 +322,7 @@ export const projects = [{
     category: "web app",
     webapp: "https://prajrefrigerationindustries.com/"
   }, {
-    id: 8,
+    id: 5,
     title: "Partybuz",
     date: "May 2024 - June 2024",
     description: "I developed a fully functional e-commerce website with product catalogs, search functionality, a user-friendly cart, and secure payment gateways, showcasing my ability to create a robust online shopping experience with smooth transac=ons and user satisfaction.",
@@ -311,7 +331,7 @@ export const projects = [{
     category: "web app",
     webapp: "https://partybuz.com/"
   }, {
-    id: 9,
+    id: 4,
     title: "Gupta Associates",
     date: "Apr 2024 - May 2024",
     description: "Developed a dynamic company website featuring comprehensive information about the organization, showcasing their products, and providing customers with the ability to request quotes effortlessly.",
@@ -320,7 +340,7 @@ export const projects = [{
     category: "web app",
     webapp: "https://guptaswitchgears.com/"
   }, {
-    id: 10,
+    id: 3,
     title: "Nevada Waters",
     date: "Apr 2024 - Apr 2024",
     description: "Crafted a modern and informative website for a water company, detailing the company's mission, services, and product offerings. Integrated user-friendly features to showcase various water products and allow customers to explore options and make inquiries conveniently.",
@@ -329,7 +349,7 @@ export const projects = [{
     category: "web app",
     webapp: "https://nevadawaters.com/"
   }, {
-    id: 11,
+    id: 2,
     title: "Seligo Consultants Private Limited",
     date: "Jan 2023 - Jan 2023",
     description: "The business website design that I have created is not only visually stunning but also fully responsive, user-friendly, and optimized for performance. It showcases your brand in the best possible light, captivating visitors from the moment they arrive and driving them towards your desired actions. Get ready to make a memorable impact in the digital world with this exceptional website design.",
@@ -338,7 +358,7 @@ export const projects = [{
     category: "web app",
     webapp: "https://acetax.in/"
   }, {
-    id: 12,
+    id: 1,
     title: "Tomar Cargo",
     date: "Mar 2023 - Mar 2023",
     description: "The cargo website design we have created for you is not only visually stunning and fully responsive but also functional and user-friendly. It combines attractive aesthetics with advanced features to showcase your cargo business effectively and engage visitors from the first interaction. Get ready to leave a lasting impression on your target audience and stand out in the competitive cargo industry with a website that truly represents your brand.",
