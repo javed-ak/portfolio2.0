@@ -28,8 +28,10 @@ const HeroSection = () => {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
-                        <ResumeButton href={Bio.whatsapp} target='_blank'>Hire Me</ResumeButton>
+                        <div className='flex gap-10'>
+                            <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
+                            <ResumeButton href={Bio.whatsapp} target='_blank'>Hire Me</ResumeButton>
+                        </div>
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
