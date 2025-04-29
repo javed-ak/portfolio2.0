@@ -12,6 +12,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1oUt7MZW0jpgSXI2lMCjzeSp8acdudmFr",
   mail: "mailto: javedakhtarsofficial@gmail.com",
+  whatsapp: "https://wa.me/919277064303",
   linkedin: "https://www.linkedin.com/in/javed-ak/",
   twitter: "https://x.com/javed__ak",
   insta: "https://www.instagram.com/javed_.ak/",
