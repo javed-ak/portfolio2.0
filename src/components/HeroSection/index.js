@@ -4,6 +4,7 @@ import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, Hero
 import HeroImg from '../../images/HeroImage.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
+import { ButtonContainer } from '../Navbar/NavbarStyledComponent';
 
 const HeroSection = () => {
     return (
@@ -28,9 +29,9 @@ const HeroSection = () => {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        <div className='flex gap-10'>
-                            <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
-                            <ResumeButton href={Bio.whatsapp} target='_blank'>Hire Me</ResumeButton>
+                        <div style={{display: 'flex', gap: '20px' }}>   
+                        <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
+                        <ResumeButton href={Bio.whatsapp} target='_blank'>Hire Me</ResumeButton>
                         </div>
                     </HeroLeftContainer>
 

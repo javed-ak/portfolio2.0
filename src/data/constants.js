@@ -15,7 +15,6 @@ export const Bio = {
   whatsapp: "https://wa.me/919277064303",
   linkedin: "https://www.linkedin.com/in/javed-ak/",
   twitter: "https://x.com/javed__ak",
-  insta: "https://www.instagram.com/javed_.ak/",
   facebook: "https://www.facebook.com/JavedAk20",
 };
 

@@ -29,7 +29,8 @@ const Navbar = () => {
           <NavLink href='#projects'>Projects</NavLink>
           <NavLink href='#education'>Education</NavLink>
         </NavItems>
-        <ButtonContainer>
+        <ButtonContainer style={{display: 'flex', gap: '10px'}}>
+          <GitHubButton href={Bio.whatsapp} target="_blank">Hire Me</GitHubButton>
           <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
         </ButtonContainer>
         {
