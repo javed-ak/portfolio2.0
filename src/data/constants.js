@@ -3,19 +3,21 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Frontend Developer",
+    "React.JS Developer",
     "Backend Developer",
+    "Node.JS Developer",
     "Programmer",
+    "WordPress Developer"
   ],
   description:
     "I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). Skilled in building and managing both front-end and back-end systems, I apply modern development practices to solve real-world problems. A quick learner with a focus on enhancing user experiences, I'm eager to grow and contribute in dynamic environments.",
   github: "https://github.com/javed-ak",
   resume:
     "https://drive.google.com/file/d/1oUt7MZW0jpgSXI2lMCjzeSp8acdudmFr",
-  mail: "mailto: javedakhtarsofficial@gmail.com",
+  mail: "mailto: contact.javedak@gmail.com",
   whatsapp: "https://wa.me/919277064303",
   linkedin: "https://www.linkedin.com/in/javed-ak/",
   twitter: "https://x.com/javed__ak",
-  facebook: "https://www.facebook.com/JavedAk20",
 };
 
 export const skills = [
