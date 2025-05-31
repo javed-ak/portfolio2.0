@@ -8,7 +8,8 @@ import { GitHub } from '@mui/icons-material';
 
 const FooterContainer = styled.div`
   width: 100%;
-  padding: 2rem 0;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   display: flex;
   justify-content: center;
   //background: linear-gradient(100.26deg, rgba(0, 102, 255, 0.05) 42.33%, rgba(150, 0, 225, 0.05) 127.07%);
@@ -22,7 +23,7 @@ const FooterWrapper = styled.footer`
   flex-direction: column;
   gap: 14px;
   align-items: center;
-  padding: 1rem;
+  padding-top: 1rem;
   color: ${({ theme }) => theme.text_primary};
 `;
 
@@ -105,7 +106,6 @@ function Footer() {
         <Copyright>
           &copy; 2025 Javed Akhtar. | All rights reserved.
         </Copyright>
-
       </FooterWrapper>
     </FooterContainer>
   );
