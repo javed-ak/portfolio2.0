@@ -13,7 +13,7 @@ export const Bio = {
     "I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). Skilled in building and managing both front-end and back-end systems, I apply modern development practices to solve real-world problems. A quick learner with a focus on enhancing user experiences, I'm eager to grow and contribute in dynamic environments.",
   github: "https://github.com/javed-ak",
   resume:
-    "https://drive.google.com/file/d/1oUt7MZW0jpgSXI2lMCjzeSp8acdudmFr",
+    "https://drive.google.com/file/d/1rcRy3HMIpnw0MQuT2yNSK-O7gIuAliMA",
   mail: "mailto: contact.javedak@gmail.com",
   whatsapp: "https://wa.me/919277064303",
   linkedin: "https://www.linkedin.com/in/javed-ak/",
