@@ -112,6 +112,20 @@ export const Img = styled.img`
   }
 `;
 
+export const TopTitle = styled.div`
+  font-weight: 700;
+  font-size: 30px;
+  color: ${({ theme }) => theme.text_primary};
+
+  @media (max-width: 960px) {
+    text-align: center;
+  }
+
+  @media (max-width: 640px) {
+    font-size: 30px;
+  }
+`;
+
 export const Title = styled.div`
   font-weight: 700;
   font-size: 50px;
