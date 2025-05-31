@@ -8,30 +8,23 @@ export const MailButton = styled.a`
     width: 95%;
     max-width: 200px;
     text-align: center;
-    padding: 12px 0;
+    padding: 8px 15px;
     color: white;
     border-radius: 20px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     transition: all 0.2s ease-in-out !important;
     background: hsla(271, 100%, 50%, 1);
     background: linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-    background: -moz-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-    background: -webkit-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-    box-shadow:  20px 20px 60pxrgba(31, 38, 52, 0.39),
-    -20px -20px 60px #1F2634;
     &:hover {
         transform: scale(1.05);
-    transition: all 0.4s ease-in-out;
-    box-shadow:  20px 20px 60pxrgba(31, 38, 52, 0.4),
-    filter: brightness(1);
+        transition: all 0.4s ease-in-out;
     }    
     
-    
     @media (max-width: 640px) {
-        padding: 12px 0;
-        font-size: 18px;
+        padding: 8px 15px;
+        font-size: 16px;
     } 
 
 `;
