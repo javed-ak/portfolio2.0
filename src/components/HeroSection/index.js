@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, ResumeButton } from './HeroStyle'
-import HeroImg from '../../images/HeroImage.jpg'
+import HeroImg from '../../images/HeroImage.png'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 import { ButtonContainer } from '../Navbar/NavbarStyledComponent';
@@ -30,8 +30,7 @@ const HeroSection = () => {
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
                         <div style={{display: 'flex', gap: '20px' }}>   
-                        <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
-                        <ResumeButton href={Bio.whatsapp} target='_blank'>Hire Me</ResumeButton>
+                        <ResumeButton href={Bio.resume} target='display'>View Resume</ResumeButton>
                         </div>
                     </HeroLeftContainer>
 
