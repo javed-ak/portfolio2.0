@@ -1,6 +1,6 @@
 import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, ResumeButton, TopTitle } from './HeroStyle'
-import HeroImg from '../../images/HeroImage.png'
+import HeroImg from '../../images/My_Profile.png'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
@@ -41,5 +41,6 @@ const HeroSection = () => {
         </div>
     )
 }
+
 
 export default HeroSection
